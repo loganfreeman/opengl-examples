@@ -47,4 +47,6 @@
     <string name="lesson_eight_subtitle">This lesson looks at index buffer objects (IBOs).</string>
    	<string name="lesson_eight_error_could_not_create_vbo">Could not create vertex buffer object: %s</string>
     <string name="lesson_eight_error_unknown">Unknown error: %s</string>
+    <string name="lession_pyramid">Pyramid (opengl 3.0)</string>
+    <string name="lession_pyramid_subtitle">Create a pyramid using opengl 3.0</string>
 </resources>

@@ -49,6 +49,10 @@
             android:name=".lesson8.LessonEightActivity"
             android:label="@string/lesson_eight" />
 
+        <activity android:name=".pyramid.PyramidActivity"
+                  android:label="@string/lession_pyramid">
+        </activity>
+
         <service
             android:name=".livewallpaper.LessonThreeWallpaperService"
             android:label="@string/lesson_three_wallpaper_1"
